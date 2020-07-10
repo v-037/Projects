@@ -1,0 +1,61 @@
+div{
+    text-align: center;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+.div_logo{
+    height:30%;
+    width:100%;
+}
+img{
+    height:9%;
+    width:20%;
+    margin-top: 8.5%;
+    margin-bottom: 2%;
+}
+.searchbar{
+    border-color:lightgrey;
+    margin-top: 0.37%;
+    border-width:0.5px;
+    border-style:solid;
+    border-radius:20px;
+    width:36%;
+    font-family: arial,sans-serif;
+    height:2.7em;
+    margin-bottom: 0.37%;
+    padding-left: 8px; 
+    padding-right: 8px;
+}
+
+.buttons{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    margin: 1.5% 0.5%;
+    padding: 0 1%;
+    width:10%;
+    height:2.75em;
+    color:darkslategray;
+}
+
+.links{
+    text-align: right;
+    padding-top:1% ;
+    padding-right: 2%;
+    font-size: 12px;
+    padding-inline-end: 1%;
+    margin-right:1%;
+}
+
+a:link{
+    color: black;
+    margin-left: 1%;
+}
+
+a:visited{
+    color: black;
+}
+
+input:focus {
+    outline: none !important;
+    border:1px solid #4d90fe;
+}
